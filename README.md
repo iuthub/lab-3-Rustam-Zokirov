@@ -7,3 +7,6 @@ Finish all exercises given in `lab3.pdf` file in this repo. The initial source c
 ## My Checkpoints
 1. Arrange Your Page into Sections
 <br><img src="img/1.png" width=600>
+
+2. Spacing With Padding and Margins, Backgrounds
+<br><img src="img/2.png" width=600>
