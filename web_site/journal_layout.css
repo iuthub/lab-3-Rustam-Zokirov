@@ -1,5 +1,16 @@
+body {
+    background-image: url('images/hashcode.png');
+    background-size: 100%;
+}
+
+.container {
+    margin: 0 auto;
+	max-width: 50em;
+}
+
 .main {
     border: 5px green solid;
+    background-color: white;
 }
 
 #global-header {
@@ -8,14 +19,19 @@
 
 #global-header #global-details {
     border: 5px orange solid;
+    margin: 2px;
 }
 
 .article {
     border: 5px blue solid;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin: 10px 0px 0px 0px;
 }
 
 .article-header .article-title {
 	font-size: 150%;
+    margin: 5px;
 }
 
 .created-at {
