@@ -13,3 +13,6 @@ Finish all exercises given in `lab3.pdf` file in this repo. The initial source c
 
 3. Float, Alignment and Clear
 <br><img src="img/3.png" width=600>
+
+4. Cosmetic Finishing Touches
+<br><img src="img/3.png" width=600>

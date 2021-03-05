@@ -11,22 +11,28 @@ body {
 }
 
 .main {
-    border: 5px green solid;
+    border: 10px white solid;
     background-color: white;
 }
 
 #global-header {
-    border: 5px red solid;
+    background-color: #A8F0F0;
+    /* border: 0px #A8F0F0 solid; */
     text-align: right;
 }
 
-#global-header #global-details {
-    border: 5px orange solid;
-    margin: 2px;
+#global-details {
+    font-size: 10pt;
+    border: 0px;
 }
 
+/* #global-header #global-details {
+    border: 5px orange solid;
+    margin: 2px;
+} */
+
 .article {
-    border: 5px blue solid;
+    border: 4px #C2E9E9 solid;
     background-color: #E8FBFB;
     padding: 5px;
     margin: 10px 0px 0px 0px;
@@ -38,7 +44,7 @@ body {
 }
 
 .created-at {
-    border: 5px violet solid;
+    border-bottom: 2px rgb(81, 138, 133) dashed;
 }
 
 
