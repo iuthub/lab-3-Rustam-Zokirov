@@ -1,6 +1,8 @@
 body {
     background-image: url('images/hashcode.png');
     background-size: 100%;
+    margin-left: 10%;
+	margin-right: 10%;
 }
 
 .container {
@@ -15,6 +17,7 @@ body {
 
 #global-header {
     border: 5px red solid;
+    text-align: right;
 }
 
 #global-header #global-details {
@@ -36,4 +39,14 @@ body {
 
 .created-at {
     border: 5px violet solid;
+}
+
+
+.article-body {
+    clear: right;
+    overflow: hidden;
+}
+
+.thumbnail img {
+    float: right;
 }
